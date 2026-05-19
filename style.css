@@ -1,0 +1,19 @@
+body{
+margin:0;
+font-family:Arial;
+background:url('bg.jpg');
+background-size:cover;
+text-align:center;
+color:white;
+}
+
+.home{
+padding-top:120px;
+}
+
+.profile{
+width:180px;
+height:180px;
+border-radius:50%;
+border:4px solid white;
+}
