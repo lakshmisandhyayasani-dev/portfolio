@@ -4,7 +4,10 @@
   box-sizing:border-box;
   font-family: Arial;
 }
-
+body{
+  background-color: #111;
+  color: white;
+}
 /* NAVBAR */
 nav{
   background:#222;
